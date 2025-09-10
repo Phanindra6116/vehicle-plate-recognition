@@ -70,6 +70,9 @@ This project is licensed under the **MIT License**.
 If you use this dataset, kindly **cite or credit this repository**. 🙌
 
 ---
+## Dataset
+This dataset is a curated collection of car license plate images designed for research and development in License Plate Recognition (LPR). The images capture vehicles in diverse real-world conditions, including varying lighting, weather, and camera angles, making it suitable for building robust computer vision and OCR-based models. It can be used to train and evaluate algorithms for tasks such as license plate detection, character segmentation, and text recognition. With applications in traffic monitoring, automated toll collection, parking management, and smart surveillance, this dataset provides a strong foundation for both academic study and practical implementation of intelligent transportation systems. The dataset can be accessed here: Google Drive Link:https://drive.google.com/drive/folders/1ul6cebgbv3XHPEoLpKBsZl5Jcjx9_FIi?usp=drive_link
+.
 
 ✨ *Contributions, feedback, and collaborations are welcome!*
 
